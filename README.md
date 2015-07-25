@@ -1,1 +1,1 @@
-# octo-home-osx
+# Octo Home OS X
